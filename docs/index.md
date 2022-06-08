@@ -4,7 +4,7 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 # Voici un titre de niveau 1
 ## Et voici un titre de niveau 2
-BIENVENUE !!!!!
+BIENVENUE !!!!!<br>
 Ceci est un paragraphe.  
 Avec un retour à la ligne sans saut de ligne.
 
